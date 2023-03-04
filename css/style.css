@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+    padding: 3px 5px;
+}
+.tr_style {
+    font-size: 18px;
+    text-align: center;
+}
+.td_style {
+    border: 2px solid black;
+    color: crimson;
+    background: blanchedalmond;
+}
+
